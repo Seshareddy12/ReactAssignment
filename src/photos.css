@@ -1,0 +1,11 @@
+img{
+    width:200px;
+    height: 300px;
+}
+li{
+    display: inline;
+}
+img{
+    margin-left: 10px;
+    border:2px solid black;
+}
